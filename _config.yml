@@ -1,0 +1,15 @@
+title: "Dwijesh Reddy"
+logo: "Image/Logo.png?raw=true"
+font-family: "Times New Roman"
+description: >
+  Tech-savvy analyst with expertise in Python, R, and SQL. I solve real-world problems through data-driven insights, utilizing Tableau, KNIME, Azure, and AWS. Regression analysis, clustering, and more are my tools to unlock hidden patterns and deliver actionable solutions.
+  <br><br>
+  <a href="https://www.linkedin.com/in/dwijesh-reddy6/">LinkedIn</a> 
+  /
+  <a href="path/to/Dwijesh_Resume.pdf">Resume</a> 
+  /
+  <a href="https://github.com/your-github">GitHub</a>
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+  - jekyll-remote-theme
+google_analytics: "YOUR-GOOGLE-ANALYTICS-ID"
